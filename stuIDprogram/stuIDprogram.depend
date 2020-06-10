@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1585837206 source:d:\网课\高程\课程设计\stuidprogram\stuidprogram\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<malloc.h>
+	"function.h"
+
+1585836637 d:\网课\高程\课程设计\stuidprogram\stuidprogram\function.h
+	<stdio.h>
+
+1585836891 source:d:\网课\高程\课程设计\stuidprogram\stuidprogram\del.c
+	"function.h"
+
+1585836891 source:d:\网课\高程\课程设计\stuidprogram\stuidprogram\enter.c
+	"function.h"
+
+1585836250 source:d:\网课\高程\课程设计\stuidprogram\stuidprogram\error.c
+	"function.h"
+
+1585836655 source:d:\网课\高程\课程设计\stuidprogram\stuidprogram\gotoxy.c
+	"function.h"
+	<windows.h>
+
+1585837204 source:d:\网课\高程\课程设计\stuidprogram\stuidprogram\menu.c
+	"function.h"
+	<windows.h>
+
+1585836891 source:d:\网课\高程\课程设计\stuidprogram\stuidprogram\modify.c
+	"function.h"
+
+1585836891 source:d:\网课\高程\课程设计\stuidprogram\stuidprogram\show_class.c
+	"function.h"
+
+1585836891 source:d:\网课\高程\课程设计\stuidprogram\stuidprogram\show_student.c
+	"function.h"
+
+1585836886 source:d:\网课\高程\课程设计\stuidprogram\stuidprogram\statistics.c
+	"function.h"
+
+1585836891 source:d:\网课\高程\课程设计\stuidprogram\stuidprogram\switchop.c
+	"function.h"
+
+1589726272 source:d:\coldblock\stuidprogram\stuidprogram\del.c
+	"function.h"
+
+1589679875 d:\coldblock\stuidprogram\stuidprogram\function.h
+	<stdio.h>
+	<windows.h>
+
+1587631392 source:d:\coldblock\stuidprogram\stuidprogram\enter.c
+	"function.h"
+
+1589621990 source:d:\coldblock\stuidprogram\stuidprogram\error.c
+	"function.h"
+
+1586874011 source:d:\coldblock\stuidprogram\stuidprogram\gotoxy.c
+	"function.h"
+	<windows.h>
+
+1589712337 source:d:\coldblock\stuidprogram\stuidprogram\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<malloc.h>
+	"function.h"
+	<windows.h>
+	<mmsystem.h>
+	<conio.h>
+
+1589726069 source:d:\coldblock\stuidprogram\stuidprogram\menu.c
+	"function.h"
+	<windows.h>
+
+1589716684 source:d:\coldblock\stuidprogram\stuidprogram\modify.c
+	"function.h"
+
+1587613471 source:d:\coldblock\stuidprogram\stuidprogram\show_class.c
+	"function.h"
+	<conio.h>
+
+1587614205 source:d:\coldblock\stuidprogram\stuidprogram\show_student.c
+	"function.h"
+
+1587550075 source:d:\coldblock\stuidprogram\stuidprogram\statistics.c
+	"function.h"
+
+1587545282 source:d:\coldblock\stuidprogram\stuidprogram\switchop.c
+	"function.h"
+
+1586874012 source:d:\coldblock\stuidprogram\stuidprogram\getset.c
+	"function.h"
+	<windows.h>
+
+1589726385 source:d:\coldblock\stuidprogram\stuidprogram\outsys.c
+	"function.h"
+
+1586874012 source:d:\coldblock\stuidprogram\stuidprogram\print_head.c
+	"function.h"
+
+1587655346 source:d:\coldblock\stuidprogram\stuidprogram\start_up.c
+	"function.h"
+
+1586876905 source:d:\coldblock\stuidprogram\stuidprogram\success.c
+	"function.h"
+
+1587655346 source:d:\coldblock\stuidprogram\stuidprogram\close_down.c
+	"function.h"
+
+1586876892 source:d:\coldblock\stuidprogram\stuidprogram\transform.c
+	"function.h"
+	<math.h>
+
+1588160439 source:d:\coldblock\stuidprogram\stuidprogram\getin.c
+	"function.h"
+
+1586874708 source:d:\coldblock\stuidprogram\stuidprogram\print_student.c
+	"function.h"
+
+1586874012 source:d:\coldblock\stuidprogram\stuidprogram\confirm.c
+	"function.h"
+
+1586874868 source:d:\coldblock\stuidprogram\stuidprogram\print_modify_op.c
+	"function.h"
+
+1587633831 source:d:\coldblock\stuidprogram\stuidprogram\modify_op.c
+	"function.h"
+
+1587437707 source:d:\coldblock\stuidprogram\stuidprogram\print_sta_op.c
+	"function.h"
+
+1586874012 source:d:\coldblock\stuidprogram\stuidprogram\ask_class.c
+	"function.h"
+
+1587437748 source:d:\coldblock\stuidprogram\stuidprogram\sta_total_num.c
+	"function.h"
+
+1586879327 source:d:\coldblock\stuidprogram\stuidprogram\sta_total_sex.c
+	"function.h"
+
+1587643461 source:d:\coldblock\stuidprogram\stuidprogram\sta_class_sex.c
+	"function.h"
+
+1587550075 source:d:\coldblock\stuidprogram\stuidprogram\sta_class_num.c
+	"function.h"
+
+1586874710 source:d:\coldblock\stuidprogram\stuidprogram\print_sex_table.c
+	"function.h"
+
+1586874012 source:d:\coldblock\stuidprogram\stuidprogram\clean_tip.c
+	"function.h"
+
+1587614612 source:d:\coldblock\stuidprogram\stuidprogram\go_back.c
+	"function.h"
+
+1587615234 source:d:\coldblock\stuidprogram\stuidprogram\super_scan.c
+	"function.h"
+
+1587614964 source:d:\coldblock\stuidprogram\stuidprogram\super_int_scan.c
+	"function.h"
+
+1587614636 source:d:\coldblock\stuidprogram\stuidprogram\ask_id.c
+	"function.h"
+
+1587638178 source:d:\coldblock\stuidprogram\stuidprogram\change_class.c
+	"function.h"
+
+1589680200 source:d:\coldblock\stuidprogram\stuidprogram\welcome.c
+	"function.h"
+
+1589726385 source:d:\coldblock\stuidprogram\stuidprogram\welcom.c
+	"function.h"
+

@@ -1,0 +1,44 @@
+*1
+&3
+hulk
+boy
+unknow
+xray
+doctor
+201121200123
+12345
+245662
+mike
+boy
+math and imformation
+network engineering
+undergraduate
+201925500111
+13543213
+351534534
+john
+boy
+math and imformation
+network engineering
+undergraduate
+201925500122
+13543243
+202020202
+*102
+&2
+小红
+男
+数学与信息
+网络工程
+本科生
+201923310211
+2123
+202020202
+小明
+男
+数学与信息学院
+计算机
+本科生
+201923310223
+12478535
+20202020
